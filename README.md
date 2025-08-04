@@ -8,11 +8,11 @@ A smart vehicle accident detection and alerting system that uses real-time locat
 
 ### 🔌 Breadboard Setup
 
-![Breadboard Setup](images/breadboard.jpg)
+![Breadboard Setup](images/breadboard.png)
 
 ### 💻 Proteus Simulation
 
-![Proteus Simulation](images/proteus.jpg)
+![Proteus Simulation](images/proteus.png)
 
 > Note: Replace the above image paths with actual GitHub image URLs or relative links after uploading.
 
