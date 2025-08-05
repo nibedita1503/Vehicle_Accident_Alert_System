@@ -14,7 +14,6 @@ A smart vehicle accident detection and alerting system that uses real-time locat
 
 ![Proteus Simulation](images/proteus.png)
 
-> Note: Replace the above image paths with actual GitHub image URLs or relative links after uploading.
 
 ---
 
